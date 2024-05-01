@@ -27,3 +27,21 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+# This is the TODO list following the code along with Theo's video "From 0 to Production - The Modern React Tutorial"
+
+# T3 Gallery
+
+## TODO
+
+- [] Make it deploy (vercel)
+- [] Scaffold basic ui with mock data
+- [] Actually setup a database (vercel postgres)
+- [] Attach Database to UI
+- [] Add Authentication (w/ clerk)
+- [] Add image upload
+- [] Error management (w/ sentry)
+- [] Routing/image page (parallel route)
+- [] Delete button (w/ Server Actions)
+- [] Analytics (posthog)
+- [] Ratelimiting (upstash)
