@@ -42,7 +42,7 @@ export default function RootLayout({
           <TopNav />
           {children}
           {modal}
-          <div id="modal_root" />
+          <div id="modal-root" />
         </body>
       </html>
     </ClerkProvider>
