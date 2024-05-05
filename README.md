@@ -48,5 +48,12 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 - [x] Update upload button
 - [x] Shaduify Upload with toasts
 - [x] Analytics (posthog)
-- [ ] Delete button (w/ Server Actions)
-- [ ] Ratelimiting (upstash)
+- [x] Delete button (w/ Server Actions)
+- [x] Ratelimiting (upstash)
+
+## A challenge to the viewer
+
+- Fix the page layout for images of different resolutions
+- "Selecting" images on the gallery page
+- "infinite scroll"
+- Folders/albums
